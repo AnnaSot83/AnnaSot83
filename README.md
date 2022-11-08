@@ -1,5 +1,3 @@
-Hey! My name is Anna. I am individual Proof of Stake Network validator.
-
 <h2><ol>Profile</ol></h2>
 
    <li> Name: AnnaSot </li>
@@ -10,7 +8,7 @@ Hey! My name is Anna. I am individual Proof of Stake Network validator.
    <li> Phone number: +37122314316</li>
     
     
-<p>I have been doing this for more then 1 year and have gained a lot of experience.I actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start. I do not use cheap servers, only powerful and reliable servers (Hetzner, Vultr). This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes.</p>
+<p>Hey! My name is Anna. I am individual Proof of Stake Network validator. I have been doing this for more then 1 year and have gained a lot of experience.I actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start. I do not use cheap servers, only powerful and reliable servers (Hetzner, Vultr). This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes.</p>
 
 
 <h3>My testnets</h3>
