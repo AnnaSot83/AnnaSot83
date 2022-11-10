@@ -19,4 +19,4 @@ sourcechain-testnet - <a>https://explorer.stavr.tech/source/staking/sourcevalope
 Terp network - <a>https://explorer.stavr.tech/terp-network/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6</a></br></br>
 nibiru-testnet-1 - <a>https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v</a></br></br>
 uptick_7000-1 - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax</a></br></br>
-<a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
+Clan network - <a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
