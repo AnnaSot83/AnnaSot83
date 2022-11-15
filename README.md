@@ -2,7 +2,7 @@
 
    <li> Name: AnnaSot </li>
    <li> Email: annasotnika@gmail.com</li>
-   <li> Telegram: @AnnaSotnika</li>
+   <li> Telegram: https://t.me/AnnaSotnika</li>
    <li> Discord: AnnaSot#3966</li>
    <li> Twitter: https://twitter.com/a_sotnika</li>
    <li> Phone number: +37122314316</li></br>
