@@ -14,11 +14,12 @@
 <h2>My testnets</h2>
 
 Mande-chain - <a>https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6</a></br></br>
-DWS - <a>https://explorer.stavr.tech/dws/staking/dewebvaloper1rtxfz35g8rery3jd56ev2jtrf6xyam69wqv2zy</a></br></br>
+CardChain - <a>https://explorer.stavr.tech/cardchain/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n</a></br></br>
 Source - <a>https://explorer.stavr.tech/source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0</a></br></br>
 Terp network - <a>https://explorer.stavr.tech/terp-network/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6</a></br></br>
 Nibiru - <a>https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v</a></br></br>
 Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax</a></br></br>
 Clan network - <a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
 Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
-Empower - <a>https://explorer.stavr.tech/empower/staking/empowervaloper1npt6nncx645w52ntxp8tc3pth8etelzmx44dwc</a></br></br>
+SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
+
