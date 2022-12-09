@@ -10,6 +10,9 @@
 <h2> </h2>    
 <div style="text-align: center;">Hi! My name is Anna. I am individual Proof of Stake Network validator. I have been doing this for more then 1 year and have gained a lot of experience.I actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start. I do not use cheap servers, only powerful and reliable servers (Hetzner, Vultr). This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes.</div>
 
+<h2>My mainnets</h2>
+
+Forta Network - <a>[https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6](https://forta.org/)</a></br></br>
 
 <h2>My testnets</h2>
 
