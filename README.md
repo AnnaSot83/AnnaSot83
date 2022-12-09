@@ -12,7 +12,7 @@
 
 <h2>My mainnets</h2>
 
-Forta Network - <a>[https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6](https://forta.org/)</a></br></br>
+Forta Network - <a>https://forta.org</a></br></br>
 
 <h2>My testnets</h2>
 
