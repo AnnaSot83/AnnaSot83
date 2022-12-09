@@ -25,4 +25,21 @@ Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdah
 Clan network - <a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
 Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
 SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
+Exodre - <a>https://exorde.network/</a></br></br>
+Aleo - <a>https://www.aleo.org/</a></br></br>
+Obol - <a>https://obol.tech/</a></br></br>
+Masa - <a>https://nodes.guru/masa</a></br></br>
 
+<h2>Archive</h2>
+
+Rebus - <a>https://www.rebuschain.com/</a></br></br>
+Stride - <a>https://stride.zone/</a></br></br>
+another-1 - <a>https://another-1.io/</a></br></br>
+Quicksilver - <a>https://quicksilver.zone/</a></br></br>
+Quai - <a>https://quai.network/</a></br></br>
+Pontem - <a>https://pontem.network/</a></br></br>
+Archway - <a>https://archway.io/</a></br></br>
+Cosmic Horizon - <a>https://cosmic-horizon.com/</a></br></br>
+Empower Chain - <a>https://www.empowerchain.io/</a></br></br>
+DWS - <a>https://deweb.services/</a></br></br>
+Islamic Coin - <a>https://islamiccoin.net/</a></br></br>
