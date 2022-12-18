@@ -25,6 +25,9 @@ Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdah
 Clan network - <a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
 Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
 SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
+HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88</a></br></br>
+Celestia - <a>https://explorer.stavr.tech/celestia-testnet/staking/celestiavaloper1h0yp9qt3p48a2ps6ggax7ee8d2agsk4nvl3vku</a></br></br>
+Nolus - <a>https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1h6l6j4pq7qvkrnuhs9v84g63fx6uuslfrpk3du</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
 Obol - <a>https://obol.tech/</a></br></br>
