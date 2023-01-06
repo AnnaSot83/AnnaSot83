@@ -28,6 +28,8 @@ SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y
 HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88</a></br></br>
 Celestia - <a>https://explorer.stavr.tech/celestia-testnet/staking/celestiavaloper1h0yp9qt3p48a2ps6ggax7ee8d2agsk4nvl3vku</a></br></br>
 Nolus - <a>https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1h6l6j4pq7qvkrnuhs9v84g63fx6uuslfrpk3du</a></br></br>
+Humans testnet - <a>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1l6ppmzet09xdm92lt45hh48jmmy77t0gnd9u4w</a></br></br>
+Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
 Obol - <a>https://obol.tech/</a></br></br>
