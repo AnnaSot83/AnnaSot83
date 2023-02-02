@@ -29,7 +29,6 @@ HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45c
 Nolus - <a>https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1h6l6j4pq7qvkrnuhs9v84g63fx6uuslfrpk3du</a></br></br>
 Humans testnet - <a>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1l6ppmzet09xdm92lt45hh48jmmy77t0gnd9u4w</a></br></br>
 Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
-Mars Testnet - <a>https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1n23txc9sl240ed5qma9glylctmt20gzch5vsn5</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
 Obol - <a>https://obol.tech/</a></br></br>
