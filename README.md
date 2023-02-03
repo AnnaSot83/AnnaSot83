@@ -31,7 +31,7 @@ Humans testnet - <a>https://explorer.stavr.tech/humans-testnet/staking/humanvalo
 Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
-Obol - <a>https://obol.tech/</a></br></br>
+Obol - <a>http://149.102.157.200:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s</a></br></br>
 Masa - <a>https://nodes.guru/masa</a></br></br>
 Fleek network - <a>https://fleek.network/</a></br></br>
 
