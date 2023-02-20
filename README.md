@@ -22,11 +22,11 @@ Source - <a>https://explorer.stavr.tech/source/staking/sourcevaloper18ctkfyehccf
 Terp network - <a>https://explorer.stavr.tech/terp-network/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6</a></br></br>
 Nibiru - <a>https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v</a></br></br>
 Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax</a></br></br>
-Clan network - <a>https://explorer.stavr.tech/clannetwork/staking/clanvaloper1pukjaj8kwqw5ugd0klg34uckznye6n4rzn8eth</a></br></br>
+Andromeda testnet - <a>https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825</a></br></br>
 Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
 SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
 HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88</a></br></br>
-Nolus - <a>https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1h6l6j4pq7qvkrnuhs9v84g63fx6uuslfrpk3du</a></br></br>
+Coreum testnet - <a>https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1xmxmam374vfevd3whehzx6zuxk2337rpqll9f4</a></br></br>
 Humans testnet - <a>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1l6ppmzet09xdm92lt45hh48jmmy77t0gnd9u4w</a></br></br>
 Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
