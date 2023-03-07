@@ -27,11 +27,12 @@ Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopia
 SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
 HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88</a></br></br>
 Coreum testnet - <a>https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1xmxmam374vfevd3whehzx6zuxk2337rpqll9f4</a></br></br>
-Humans testnet - <a>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1l6ppmzet09xdm92lt45hh48jmmy77t0gnd9u4w</a></br></br>
 Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
+Sao-testnet - <a>https://explorer.stavr.tech/sao-testnet/staking/saovaloper1r67lc47wu389eanf9t47qftmxpactw38erfywa</a></br></br>
+Ojo-devnet - <a>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
-Obol - <a>http://149.102.157.200:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s</a></br></br>
+Obol - <a>http://31.220.75.83:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s</a></br></br>
 Masa - <a>https://nodes.guru/masa</a></br></br>
 Fleek network - <a>https://fleek.network/</a></br></br>
 
