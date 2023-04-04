@@ -97,14 +97,63 @@
 		</tr>
 	</tbody>
 </table>
-Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax</a></br></br>
-Andromeda testnet - <a>https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825</a></br></br>
-Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
-SixSigmaSports - <a>https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1y69x5andmdjh5tg3tf4q2tx6dm2kjw9hee26af</a></br></br>
-HAQQ - <a>https://explorer.stavr.tech/haqq/staking/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88</a></br></br>
-Coreum testnet - <a>https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1xmxmam374vfevd3whehzx6zuxk2337rpqll9f4</a></br></br>
-Lava - <a>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1msyx7r7j65yqwk75jt44etunu47ya7zcl232z7</a></br></br>
-Sao-testnet - <a>https://explorer.stavr.tech/sao-testnet/staking/saovaloper1r67lc47wu389eanf9t47qftmxpactw38erfywa</a></br></br>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Uptick</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://uptick-testnet.exploreme.pro/validator/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax" rel="nofollow">
+					<img src="https://d1fdloi71mui9q.cloudfront.net/TeBN5NrTIydjyOr0ibcw_TLgi8K767KT4t84g" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Andromeda</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://andromeda.exploreme.pro/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
+					<img src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c2797c7da82079e39f12_BlackLogo_Horizontal%201%402x.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Gitopia</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Haqq Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" rel="nofollow">
+					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Sao testnet</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://pbs.twimg.com/profile_images/1610191616375128066/kV74EMrg_400x400.jpg" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 Ojo-devnet - <a>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm</a></br></br>
 Exodre - <a>https://exorde.network/</a></br></br>
 Aleo - <a>https://www.aleo.org/</a></br></br>
