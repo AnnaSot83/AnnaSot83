@@ -153,13 +153,62 @@
 		</tr>
 	</tbody>
 </table>
-
-Ojo-devnet - <a>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm</a></br></br>
-Exodre - <a>https://exorde.network/</a></br></br>
-Aleo - <a>https://www.aleo.org/</a></br></br>
-Obol - <a>http://31.220.75.83:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s</a></br></br>
-Masa - <a>https://nodes.guru/masa</a></br></br>
-Fleek network - <a>https://fleek.network/</a></br></br>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Uptick</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://ojo.exploreme.pro/validator/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Exodre</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://exorde.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Masa Finance</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.masa.finance/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1587535167425478659/dgdAIdmu_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Fleek Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://fleek.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1598261012498718722/nxig40Sp_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>SSV</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://ssv.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1462629470460727300/44rQmYKo_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <h2>Archive</h2>
 
