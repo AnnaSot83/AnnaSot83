@@ -12,7 +12,32 @@
 
 <h2>My mainnets</h2>
 
-Uptick - <a href="https://forta.org"><img src="https://d1fdloi71mui9q.cloudfront.net/TeBN5NrTIydjyOr0ibcw_TLgi8K767KT4t84g" alt=""></a>></br></br>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Uptick</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://uptick.exploreme.pro/validator/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax" rel="nofollow">
+					<img src="https://d1fdloi71mui9q.cloudfront.net/TeBN5NrTIydjyOr0ibcw_TLgi8K767KT4t84g" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Uptick</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://forta.org" rel="nofollow">
+					<img src="https://forta.org/wp-content/themes/forta/img/forta_white.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <h2>My testnets</h2>
 
