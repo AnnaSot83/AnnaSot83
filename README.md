@@ -21,7 +21,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://uptick.exploreme.pro/validator/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax" rel="nofollow">
+				<a href="https://uptick.exploreme.pro/validator/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax" rel="nofollow" target="_blank">
 					<img src="https://d1fdloi71mui9q.cloudfront.net/TeBN5NrTIydjyOr0ibcw_TLgi8K767KT4t84g" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -31,7 +31,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://forta.org" rel="nofollow">
+				<a href="https://forta.org" rel="nofollow" target="_blank">
 					<img src="https://forta.org/wp-content/themes/forta/img/forta_white.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
