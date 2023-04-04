@@ -27,7 +27,7 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Uptick</strong>
+					<strong>Forta</strong>
 				</span>
 				<br>
 				<br>
