@@ -12,7 +12,7 @@
 
 <h2>My mainnets</h2>
 
-Uptick - <a href="https://forta.org"><img src="https://twitter.com/uptickproject/photo" alt=""></a>></br></br>
+Uptick - <a href="https://forta.org"><img src="[https://d1fdloi71mui9q.cloudfront.net/TeBN5NrTIydjyOr0ibcw_TLgi8K767KT4t84g" alt=""></a>></br></br>
 
 <h2>My testnets</h2>
 
