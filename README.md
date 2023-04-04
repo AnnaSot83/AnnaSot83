@@ -212,14 +212,135 @@
 
 <h2>Archive</h2>
 
-Rebus - <a>https://www.rebuschain.com/</a></br></br>
-Stride - <a>https://stride.zone/</a></br></br>
-another-1 - <a>https://another-1.io/</a></br></br>
-Quicksilver - <a>https://quicksilver.zone/</a></br></br>
-Quai - <a>https://quai.network/</a></br></br>
-Pontem - <a>https://pontem.network/</a></br></br>
-Archway - <a>https://archway.io/</a></br></br>
-Cosmic Horizon - <a>https://cosmic-horizon.com/</a></br></br>
-Empower Chain - <a>https://www.empowerchain.io/</a></br></br>
-DWS - <a>https://deweb.services/</a></br></br>
-Islamic Coin - <a>https://islamiccoin.net/</a></br></br>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Rebus</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.rebuschain.com/" rel="nofollow">
+					<img src="https://uploads-ssl.webflow.com/6257b52d5ba30091f5056b4d/6257bacc8ea23a1d966a6d47_Rebus%20Logo.svg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Stride</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://stride.zone/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Another-1</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.another-1.io/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1507001608202178566/HvHbynb1_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Quicksilver</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://quicksilver.zone/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Quai</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://qu.ai/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1623742512157401093/bgaMT8YN_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+            <td width="130px" align="center">
+				<span>
+					<strong>Pontem Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://pontem.network/" rel="nofollow">
+					<img src="https://avatars.githubusercontent.com/u/79349007?s=200&v=4" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Archway</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://archway.io/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1610320333449433089/bxLJkEWw_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Cosmic Horizon</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://cosmic-horizon.com/" rel="nofollow">
+					<img src="https://cosmic-horizon.com/img/logo.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Empower Chain</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.empowerchain.io/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1566084782278250496/1nL1mqzL_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>DWS</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://deweb.services/" rel="nofollow">
+					<img src="https://deweb.services/static/media/logo.28473e96.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Aleo</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.aleo.org/" rel="nofollow">
+					<img src="https://assets-global.website-files.com/5e990b3bae81cf4a03433c58/5f347d008da2e477a3c61fca_Aleo-logo-white-p-500.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+            <td width="130px" align="center">
+				<span>
+					<strong>Ironfish</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://ironfish.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
