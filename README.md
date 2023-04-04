@@ -136,8 +136,8 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" rel="nofollow">
-					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
+				<a href="https://haqq.exploreme.pro/validator/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88" rel="nofollow">
+					<img src="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -146,8 +146,8 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://pbs.twimg.com/profile_images/1610191616375128066/kV74EMrg_400x400.jpg" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+				<a href="https://explorer.stavr.tech/sao-testnet/staking/saovaloper1w2zdjzgn09xgwyzjnu5942j35hqekpqcggcxmj" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1610191616375128066/kV74EMrg_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
