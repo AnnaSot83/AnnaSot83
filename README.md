@@ -41,11 +41,62 @@
 
 <h2>My testnets</h2>
 
-Mande-chain - <a>https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6</a></br></br>
-CardChain - <a>https://explorer.stavr.tech/cardchain/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n</a></br></br>
-Source - <a>https://explorer.stavr.tech/source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0</a></br></br>
-Terp network - <a>https://explorer.stavr.tech/terp-network/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6</a></br></br>
-Nibiru - <a>https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v</a></br></br>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Mande Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*g659sYAyvjmYc4axXoUfxA.png" rel="nofollow">
+					<img src="https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>CrowdControl</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://crowdcontrol.network/img/logo.8f55bba1.svg" rel="nofollow">
+					<img src="https://crowdcontrol.exploreme.pro/validator/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Source Protocol</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://static.wixstatic.com/media/80368b_6d278c8c8ffa4c07b91419c4532c608a~mv2.png/v1/fill/w_70,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/source%20icon.png" rel="nofollow">
+					<img src="https://explorer.stavr.tech/source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Terp Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" rel="nofollow">
+					<img src="https://explorer.stavr.tech/terp-network/staking/terpvaloper14ryv4ed4dqak8hzumllxhn278vf2j7a4ryteke" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Nibiru</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" rel="nofollow">
+					<img src="https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 Uptick - <a>https://explorer.stavr.tech/uptick/staking/uptickvaloper159kqv4gpdahdhzew7d8jmyjgzsuym8fvk6jvax</a></br></br>
 Andromeda testnet - <a>https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825</a></br></br>
 Gitopia network - <a>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt</a></br></br>
