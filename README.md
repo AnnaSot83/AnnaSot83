@@ -34,6 +34,16 @@
 					<img src="https://forta.org/wp-content/themes/forta/img/forta_white.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Terp Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorers.cryptech.com.ua/terp-mainnet/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6" rel="nofollow">
+					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -219,6 +229,16 @@
 				<br>
 				<a href="https://www.muon.net/" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Elys Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/elys-testnet/staking/elysvaloper19k2y3lrlxprlca0x69pur2m98zw6k5d8fgc7gx" rel="nofollow">
+					<img src="https://raw.githubusercontent.com/kj89/cosmos-images/main/logos/elys.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
