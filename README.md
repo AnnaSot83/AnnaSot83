@@ -85,12 +85,12 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Terp Network</strong>
+					<strong>Cascadia Network</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/terp-network/staking/terpvaloper14ryv4ed4dqak8hzumllxhn278vf2j7a4ryteke" rel="nofollow">
-					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
+				<a href="https://cascadia.exploreme.pro/validator/cascadiavaloper1vvempfythckljk5cryms4u2a7c4w3mhq4l7nqq" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1591262611617722370/VkRLHBBe_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
