@@ -1,4 +1,4 @@
-<h2><ol>Profile 🐾 </ol></h2>
+<h2><ol> 🐾 Profile 🐾 </ol></h2>
 
    <li> Name: AnnaSot </li>
    <li> Email: annasotnika@gmail.com</li>
@@ -229,6 +229,16 @@
 				<br>
 				<a href="https://www.muon.net/" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Power DCloud</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://linktr.ee/thepowerio" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1595621206304198656/_KjoS0UQ_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
