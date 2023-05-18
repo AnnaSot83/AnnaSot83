@@ -26,6 +26,16 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
+					<strong>Gitopia</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://gitopia.exploreme.pro/account/gitopia1xx92rnqza0jjkff9d7gqt45j8sulvdswxsp9ls" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>Forta</strong>
 				</span>
 				<br>
@@ -127,16 +137,6 @@
 				<br>
 				<a href="https://andromeda.exploreme.pro/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
 					<img src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c2797c7da82079e39f12_BlackLogo_Horizontal%201%402x.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Gitopia</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1xx92rnqza0jjkff9d7gqt45j8sulvdsww294lt" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -353,7 +353,7 @@
 				<br>
 				<br>
 				<a href="https://deweb.services/" rel="nofollow">
-					<img src="https://deweb.services/static/media/logo.28473e96.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1656084833662291968/nHHrVSQn_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
