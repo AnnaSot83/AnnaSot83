@@ -26,16 +26,6 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Gitopia</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://gitopia.exploreme.pro/account/gitopia1xx92rnqza0jjkff9d7gqt45j8sulvdswxsp9ls" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Forta</strong>
 				</span>
 				<br>
