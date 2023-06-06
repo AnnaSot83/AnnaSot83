@@ -131,16 +131,6 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Haqq Network</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://haqq.exploreme.pro/validator/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88" rel="nofollow">
-					<img src="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Sao testnet</strong>
 				</span>
 				<br>
@@ -374,6 +364,16 @@
 				<br>
 				<a href="https://ironfish.network/" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Haqq Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://haqq.exploreme.pro/validator/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88" rel="nofollow">
+					<img src="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
