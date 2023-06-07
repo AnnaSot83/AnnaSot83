@@ -69,7 +69,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://crowdcontrol.exploreme.pro/validator/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
+				<a href="https://explorer.stavr.tech/cardchain/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
 					<img src="https://crowdcontrol.network/img/logo.8f55bba1.svg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -125,7 +125,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://andromeda.exploreme.pro/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
+				<a href="https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
 					<img src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c2797c7da82079e39f12_BlackLogo_Horizontal%201%402x.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -151,7 +151,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://ojo.exploreme.pro/validator/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm" rel="nofollow">
+				<a href="https://ojo.explorers.guru/validator/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
