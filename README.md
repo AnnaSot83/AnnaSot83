@@ -85,16 +85,6 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Cascadia Network</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://cascadia.exploreme.pro/validator/cascadiavaloper1vvempfythckljk5cryms4u2a7c4w3mhq4l7nqq" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1591262611617722370/VkRLHBBe_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Nibiru</strong>
 				</span>
 				<br>
@@ -126,7 +116,7 @@
 				<br>
 				<br>
 				<a href="https://explorer.stavr.tech/sao-testnet/staking/saovaloper1w2zdjzgn09xgwyzjnu5942j35hqekpqcggcxmj" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1610191616375128066/kV74EMrg_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://explorer.alfonova.app/logos/sao.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -172,7 +162,7 @@
 				<br>
 				<br>
 				<a href="https://fleek.network/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1598261012498718722/nxig40Sp_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://avatars.githubusercontent.com/u/116367644?s=200&v=4" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -248,16 +238,6 @@
 				<br>
 				<a href="https://stride.zone/" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Another-1</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://www.another-1.io/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1507001608202178566/HvHbynb1_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
