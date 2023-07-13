@@ -31,7 +31,7 @@
 				<br>
 				<br>
 				<a href="https://explorer.forta.network/scan-node/0xf3a0b198de23c8a57159a06278975a216a7f99ed?_gl=1*15izn8g*_ga*MTU1NTkwOTA2NS4xNjgwNjA0MTcz*_ga_3ERDDVRGQQ*MTY4MDYxODk3Ni4zLjEuMTY4MDYxOTcyMi4wLjAuMA.." rel="nofollow">
-					<img src="https://forta.org/wp-content/themes/forta/img/forta_white.png" style="max-width: 100%;" height="40px">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyTORG6zIQMAzCOfcA5DfyjPc5AfCHyMaAw&usqp=CAU" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
