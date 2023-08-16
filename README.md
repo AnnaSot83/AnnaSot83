@@ -55,16 +55,6 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
-					<strong>Mande Network</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://explorer.stavr.tech/mande-chain/staking/mandevaloper1z3dh7dmj9lxvnyk6qauqek0za6d98rhzjpcyh6" rel="nofollow">
-					<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*g659sYAyvjmYc4axXoUfxA.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>CrowdControl</strong>
 				</span>
 				<br>
