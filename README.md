@@ -60,7 +60,7 @@
 				<br>
 				<br>
 				<a href="https://explorer.stavr.tech/cardchain/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
-					<img src="https://crowdcontrol.network/img/logo.8f55bba1.svg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1361790543144099850/7mIj_dLw_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -188,7 +188,7 @@
 				<br>
 				<br>
 				<a href="https://linktr.ee/thepowerio" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1595621206304198656/_KjoS0UQ_400x400.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1683465955635081216/BU8G5tzS_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -227,7 +227,7 @@
 				<br>
 				<br>
 				<a href="https://stride.zone/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1678377000468205568/UY9UaLF0_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
