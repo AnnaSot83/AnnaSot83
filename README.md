@@ -109,12 +109,6 @@
 					<img src="https://explorer.alfonova.app/logos/sao.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
-		</tr>
-	</tbody>
-</table>
-<table width="350px" align="center">
-	<tbody>
-		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
 					<strong>Ojo network</strong>
@@ -125,6 +119,12 @@
 					<img src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
 					<strong>Exodre</strong>
