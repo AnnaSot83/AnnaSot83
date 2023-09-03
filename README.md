@@ -96,7 +96,7 @@
 				<br>
 				<br>
 				<a href="https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
-					<img src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c2797c7da82079e39f12_BlackLogo_Horizontal%201%402x.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
