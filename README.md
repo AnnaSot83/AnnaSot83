@@ -101,12 +101,12 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Sao testnet</strong>
+					<strong>SSV</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/sao-testnet/staking/saovaloper1w2zdjzgn09xgwyzjnu5942j35hqekpqcggcxmj" rel="nofollow">
-					<img src="https://explorer.alfonova.app/logos/sao.png" style="max-width: 100%;" height="40px">
+				<a href="https://ssv.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1462629470460727300/44rQmYKo_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -153,16 +153,6 @@
 				<br>
 				<a href="https://fleek.network/" rel="nofollow">
 					<img src="https://avatars.githubusercontent.com/u/116367644?s=200&v=4" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>SSV</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://ssv.network/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1462629470460727300/44rQmYKo_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
