@@ -79,7 +79,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/nibiru/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
+				<a href="https://explorer.nibiru.fi/nibiru-itn-2/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
