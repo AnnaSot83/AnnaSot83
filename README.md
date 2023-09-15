@@ -195,7 +195,7 @@
 	</tbody>
 </table>
 
-<h2>Archive</h2>
+<h2>Finished Testnets</h2>
 
 <table width="350px" align="center">
 	<tbody>
