@@ -3,7 +3,7 @@
    <li> Name: AnnaSot </li>
    <li> Email: annasotnika@gmail.com</li>
    <li> Telegram: https://t.me/AnnaSotnika</li>
-   <li> Discord: AnnaSot#3966</li>
+   <li> Discord: annasot</li>
    <li> Twitter: https://twitter.com/a_sotnika</li>
     
 <h2> </h2>    
@@ -40,7 +40,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorers.cryptech.com.ua/terp-mainnet/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Terp-Mainnet/staking/terpvaloper17fq4f7vs5lu5fm3f7fms9xdj29amnevz5ec5s6" rel="nofollow">
 					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -59,7 +59,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/cardchain/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
+				<a href="https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1361790543144099850/7mIj_dLw_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -69,7 +69,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0" rel="nofollow">
 					<img src="https://static.wixstatic.com/media/80368b_6d278c8c8ffa4c07b91419c4532c608a~mv2.png/v1/fill/w_70,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/source%20icon.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -79,8 +79,18 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.nibiru.fi/nibiru-itn-2/staking/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
+				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Arkeo</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://arkeo.exploreme.pro/validator/tarkeovaloper15jz3pe06es4wnzxvw8cv5jlwxmn86uwht50dfy" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1615488082756907009/jbFWivQL_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -91,11 +101,21 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
+					<strong>Entangle</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1u2llu55w6ml4vu956napdgueqrn567uamud5zv" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1524402382809231365/AeJ-i5f1_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>Andromeda</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://andromeda.explorers.guru/validator/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -187,7 +207,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/elys-testnet/staking/elysvaloper19k2y3lrlxprlca0x69pur2m98zw6k5d8fgc7gx" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper19k2y3lrlxprlca0x69pur2m98zw6k5d8fgc7gx" rel="nofollow">
 					<img src="https://raw.githubusercontent.com/kj89/cosmos-images/main/logos/elys.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
