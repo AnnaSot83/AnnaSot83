@@ -26,6 +26,16 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
+					<strong>Source Protocol</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0" rel="nofollow">
+					<img src="https://static.wixstatic.com/media/80368b_6d278c8c8ffa4c07b91419c4532c608a~mv2.png/v1/fill/w_70,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/source%20icon.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>Forta</strong>
 				</span>
 				<br>
