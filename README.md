@@ -1,4 +1,4 @@
-<h2><ol> 🐾 Profile 🐾 </ol></h2>
+<h2><ol> ♻️ PurelyNodes 💻 </ol></h2>
 
    <li> Name: AnnaSot </li>
    <li> Email: annasotnika@gmail.com</li>
