@@ -171,8 +171,8 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://pbs.twimg.com/profile_images/1719781248925831169/kC0UzpkB_400x400.jpg" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1587535167425478659/dgdAIdmu_400x400.png" style="max-width: 100%;" height="40px">
+				<a href="https://app.masa.finance/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1719781248925831169/kC0UzpkB_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -303,7 +303,7 @@
 				<br>
 				<br>
 				<a href="https://pbs.twimg.com/profile_images/1447023576993779712/foGmZtw4_400x400.jpg" rel="nofollow">
-					<img src="https://cosmic-horizon.com/img/logo.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1447023576993779712/foGmZtw4_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
