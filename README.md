@@ -85,12 +85,12 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Nibiru</strong>
+					<strong>Quai</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+				<a href="https://qu.ai/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1623742512157401093/bgaMT8YN_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -171,7 +171,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://www.masa.finance/" rel="nofollow">
+				<a href="https://pbs.twimg.com/profile_images/1719781248925831169/kC0UzpkB_400x400.jpg" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1587535167425478659/dgdAIdmu_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -232,6 +232,16 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
+					<strong>Nibiru</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>Rebus</strong>
 				</span>
 				<br>
@@ -258,16 +268,6 @@
 				<br>
 				<a href="https://quicksilver.zone/" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Quai</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://qu.ai/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1623742512157401093/bgaMT8YN_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
             <td width="130px" align="center">
@@ -302,7 +302,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://cosmic-horizon.com/" rel="nofollow">
+				<a href="https://pbs.twimg.com/profile_images/1447023576993779712/foGmZtw4_400x400.jpg" rel="nofollow">
 					<img src="https://cosmic-horizon.com/img/logo.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
