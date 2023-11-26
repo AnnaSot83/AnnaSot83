@@ -231,6 +231,16 @@
 					<img src="https://raw.githubusercontent.com/kj89/cosmos-images/main/logos/elys.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>EntryPoint</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ayjd4k868n09fjaxs5c75x996n4sp3qx4jajty" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1655541754274119680/jPwIFpXf_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
