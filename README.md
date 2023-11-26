@@ -116,7 +116,7 @@
 				<br>
 				<br>
 				<a href="https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1u2llu55w6ml4vu956napdgueqrn567uamud5zv" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1524402382809231365/AeJ-i5f1_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1727657875655585792/lrJGaugZ_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -183,6 +183,16 @@
 				<br>
 				<a href="https://fleek.network/" rel="nofollow">
 					<img src="https://avatars.githubusercontent.com/u/116367644?s=200&v=4" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Avail</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://goldberg.avail.tools/#/staking" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -267,7 +277,7 @@
 				<br>
 				<br>
 				<a href="https://quicksilver.zone/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1725095819412451328/c2EsvAlg_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
             <td width="130px" align="center">
