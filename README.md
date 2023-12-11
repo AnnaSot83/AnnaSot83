@@ -1,6 +1,6 @@
 <h2><ol> ♻️ PureNodes 💻 </ol></h2>
 
-   <li> Name: AnnaSot </li>
+   <li> Name: Anna </li>
    <li> Email: annasotnika@gmail.com</li>
    <li> Telegram: https://t.me/AnnaSotnika</li>
    <li> Discord: annasot</li>
