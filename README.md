@@ -90,7 +90,7 @@
 				<br>
 				<br>
 				<a href="https://qu.ai/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1623742512157401093/bgaMT8YN_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1734342197816774656/cM2AlLNw_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -257,7 +257,7 @@
 				<br>
 				<br>
 				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1734343028981006336/wQTkKpFQ_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
