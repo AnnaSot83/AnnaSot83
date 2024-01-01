@@ -287,7 +287,7 @@
 				<br>
 				<br>
 				<a href="https://quicksilver.zone/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1725095819412451328/c2EsvAlg_400x400.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_banners/1471200836504199168/1700129803/1500x500" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
             <td width="130px" align="center">
