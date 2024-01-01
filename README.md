@@ -54,6 +54,16 @@
 					<img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Muon Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://www.muon.net/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -201,16 +211,6 @@
 <table width="350px" align="center">
 	<tbody>
 		<tr valign="top">
-			<td width="130px" align="center">
-				<span>
-					<strong>Muon Network</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://www.muon.net/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
 			<td width="130px" align="center">
 				<span>
 					<strong>Power DCloud</strong>
