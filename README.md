@@ -218,7 +218,7 @@
 				<br>
 				<br>
 				<a href="https://linktr.ee/thepowerio" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1683465955635081216/BU8G5tzS_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1601706555040301057/seQh_m3X_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
