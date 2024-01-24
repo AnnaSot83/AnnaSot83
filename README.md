@@ -241,6 +241,16 @@
 					<img src="https://pbs.twimg.com/profile_images/1655541754274119680/jPwIFpXf_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>KIRA Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://links.kira.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1609816648797810689/dKDN6iuY_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
