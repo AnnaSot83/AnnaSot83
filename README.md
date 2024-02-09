@@ -89,7 +89,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/Source/staking/sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Source/staking/sourcevaloper1lh4md05unnfu9vekr03hgrv24629pl5ylwvjgl" rel="nofollow">
 					<img src="https://static.wixstatic.com/media/80368b_6d278c8c8ffa4c07b91419c4532c608a~mv2.png/v1/fill/w_70,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/source%20icon.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
