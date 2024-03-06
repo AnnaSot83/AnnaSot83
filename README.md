@@ -75,6 +75,16 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
+					<strong>Taiko</strong>
+				</span>
+				<br>
+				<br>
+				<a href="http://89.58.16.33:3001/d/L2ExecutionEngine/l2-execution-engine-overview?orgId=1&refresh=10s&from=now-5m&to=now" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>CrowdControl</strong>
 				</span>
 				<br>
