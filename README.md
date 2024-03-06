@@ -126,17 +126,17 @@
 				<br>
 				<br>
 				<a href="https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1u2llu55w6ml4vu956napdgueqrn567uamud5zv" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1727657875655585792/lrJGaugZ_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1760310054090416128/MB1i9hzT_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Andromeda</strong>
+					<strong>Side Protocol</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1nlq6e5fvzrjwfka94q85pfxq2m59smfqlqs825" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" style="max-width: 100%;" height="40px">
+				<a href="https://testnet.side.explorers.guru/validator/sidevaloper1f8g2hu0hjy89tl2m0fwt4mhm79eqqjduvnmsc6" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -267,7 +267,7 @@
 				<br>
 				<br>
 				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1734343028981006336/wQTkKpFQ_400x400.png" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1752226770659545088/4ZmR5YS3_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -297,7 +297,7 @@
 				<br>
 				<br>
 				<a href="https://quicksilver.zone/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_banners/1471200836504199168/1700129803/1500x500" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1743937771046096897/xA8ls39q_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
             <td width="130px" align="center">
@@ -323,7 +323,7 @@
 				<br>
 				<br>
 				<a href="https://archway.io/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1610320333449433089/bxLJkEWw_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1762191438098419713/qnwtgHbN_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
