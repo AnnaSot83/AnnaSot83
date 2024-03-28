@@ -90,7 +90,7 @@
 				<br>
 				<br>
 				<a href="https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1361790543144099850/7mIj_dLw_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1770007097779929088/U9jc7eki_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
@@ -277,7 +277,7 @@
 				<br>
 				<br>
 				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1752226770659545088/4ZmR5YS3_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
