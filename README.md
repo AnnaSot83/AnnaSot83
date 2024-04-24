@@ -64,6 +64,16 @@
 					<img src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Humanode</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://blog.humanode.io/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1577660492662951939/4q1DV_mC_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -145,7 +155,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://testnet.side.explorers.guru/validator/sidevaloper1f8g2hu0hjy89tl2m0fwt4mhm79eqqjduvnmsc6" rel="nofollow">
+				<a href="https://testnet.itrocket.net/side/staking/bcvaloper1yrvp6amxqs734ymmy7n0vfdva2039n2tlaamxc" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
@@ -167,6 +177,16 @@
 				<br>
 				<a href="https://ojo.explorers.guru/validator/ojovaloper14lvf4824vde7t9dn5unk07xnyv2xey2anu5kjm" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Galactica</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://testnet.itrocket.net/galactica/staking/galavaloper1dh5g7qlm82wcpupl0jl6ncdx70ksfrg32qfxf6" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1674417594194079747/xWQbhp9N_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -213,6 +233,16 @@
 				<br>
 				<a href="https://goldberg.avail.tools/#/staking" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Waku</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://waku.org/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1521745022709813251/znGz22qI_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
