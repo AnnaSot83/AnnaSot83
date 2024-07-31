@@ -141,36 +141,6 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
-					<strong>Entangle</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1u2llu55w6ml4vu956napdgueqrn567uamud5zv" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1760310054090416128/MB1i9hzT_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Side Protocol</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://testnet.itrocket.net/side/staking/bcvaloper1yrvp6amxqs734ymmy7n0vfdva2039n2tlaamxc" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>SSV</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://ssv.network/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1462629470460727300/44rQmYKo_400x400.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Ojo network</strong>
 				</span>
 				<br>
@@ -197,52 +167,12 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
-					<strong>Exodre</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://exorde.network/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Masa Finance</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://app.masa.finance/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1719781248925831169/kC0UzpkB_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Fleek Network</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://fleek.network/" rel="nofollow">
-					<img src="https://avatars.githubusercontent.com/u/116367644?s=200&v=4" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Avail</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://goldberg.avail.tools/#/staking" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Waku</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://waku.org/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1521745022709813251/znGz22qI_400x400.jpg" style="max-width: 100%;" height="40px">
+				<a href="http://65.108.196.120:3000/d/yns_4vFVk/nwaku-monitoring?orgId=1&refresh=1m" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1798076016700850177/4nFUg96Y_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -424,6 +354,82 @@
 				<br>
 				<a href="https://haqq.exploreme.pro/validator/haqqvaloper17vasf342kcl7ez45ctkdlk6xfktdqfcykckt88" rel="nofollow">
 					<img src="https://miro.medium.com/v2/resize:fit:180/1*N2xHe5UfUyFTdqKpKcjjeQ.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>Exodre</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://exorde.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Masa Finance</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://app.masa.finance/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1719781248925831169/kC0UzpkB_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Fleek Network</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://fleek.network/" rel="nofollow">
+					<img src="https://avatars.githubusercontent.com/u/116367644?s=200&v=4" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Avail</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://goldberg.avail.tools/#/staking" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Entangle</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1u2llu55w6ml4vu956napdgueqrn567uamud5zv" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1760310054090416128/MB1i9hzT_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Side Protocol</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://testnet.itrocket.net/side/staking/bcvaloper1yrvp6amxqs734ymmy7n0vfdva2039n2tlaamxc" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>SSV</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://ssv.network/" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1462629470460727300/44rQmYKo_400x400.png" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
