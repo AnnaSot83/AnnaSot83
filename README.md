@@ -85,16 +85,6 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
-					<strong>Taiko</strong>
-				</span>
-				<br>
-				<br>
-				<a href="http://89.58.16.33:3001/d/L2ExecutionEngine/l2-execution-engine-overview?orgId=1&refresh=10s&from=now-5m&to=now" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>CrowdControl</strong>
 				</span>
 				<br>
@@ -151,12 +141,12 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>Galactica</strong>
+					<strong>Farcaster</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://testnet.itrocket.net/galactica/staking/galavaloper1dh5g7qlm82wcpupl0jl6ncdx70ksfrg32qfxf6" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1674417594194079747/xWQbhp9N_400x400.jpg" style="max-width: 100%;" height="40px">
+				<a href="http://158.220.85.93:3000/d/af04c037-bd8f-484a-b93e-0cb4b7d3b026/hubble-dashboard?orgId=1&refresh=30s" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1546487688601096192/QoG0ZVgH_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -173,6 +163,17 @@
 				<br>
 				<a href="http://65.108.196.120:3000/d/yns_4vFVk/nwaku-monitoring?orgId=1&refresh=1m" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1798076016700850177/4nFUg96Y_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Empeiria</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://testnet.itrocket.net/empeiria/staking/empevaloper1ssfrmseqcrcc66hc3skj2hhjwg9a6vfqr0lrpx" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1575715887591612419/D2Aw6uNh_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 		</tr>
@@ -238,6 +239,16 @@
 				<br>
 				<a href="https://nibiru.exploreme.pro/validator/nibivaloper1r2ez47cdhjw50k7aklkckyae2l0taq0rqfky6v" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
+					<strong>Taiko</strong>
+				</span>
+				<br>
+				<br>
+				<a href="http://89.58.16.33:3001/d/L2ExecutionEngine/l2-execution-engine-overview?orgId=1&refresh=10s&from=now-5m&to=now" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
