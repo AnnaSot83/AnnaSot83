@@ -85,16 +85,6 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
-					<strong>CrowdControl</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1770007097779929088/U9jc7eki_400x400.jpg" style="max-width: 100%;" height="40px">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
 					<strong>Source Protocol</strong>
 				</span>
 				<br>
@@ -129,6 +119,16 @@
 <table width="350px" align="center">
 	<tbody>
 		<tr valign="top">
+			<td width="130px" align="center">
+				<span>
+					<strong>CrowdControl</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1mwqyt2f7u69wcv7gxspv9m4jlq29gdad2lfv4n" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1770007097779929088/U9jc7eki_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
 			<td width="130px" align="center">
 				<span>
 					<strong>Ojo network</strong>
@@ -176,13 +176,7 @@
 					<img src="https://pbs.twimg.com/profile_images/1575715887591612419/D2Aw6uNh_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
-		</tr>
-	</tbody>
-</table>
-<table width="350px" align="center">
-	<tbody>
-		<tr valign="top">
-			<td width="130px" align="center">
+	<td width="130px" align="center">
 				<span>
 					<strong>Power DCloud</strong>
 				</span>
@@ -192,6 +186,12 @@
 					<img src="https://pbs.twimg.com/profile_images/1601706555040301057/seQh_m3X_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="350px" align="center">
+	<tbody>
+		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
 					<strong>Elys Network</strong>
