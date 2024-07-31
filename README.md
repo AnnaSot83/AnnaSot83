@@ -304,7 +304,7 @@
 				<br>
 				<br>
 				<a href="https://archway.io/" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1762191438098419713/qnwtgHbN_400x400.jpg" style="max-width: 100%;" height="40px">
+					<img src="https://pbs.twimg.com/profile_images/1803873116193722368/c66zNy1K_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
