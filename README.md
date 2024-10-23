@@ -204,12 +204,12 @@
 			</td>
 			<td width="130px" align="center">
 				<span>
-					<strong>EntryPoint</strong>
+					<strong>Warden</strong>
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ayjd4k868n09fjaxs5c75x996n4sp3qx4jajty" rel="nofollow">
-					<img src="https://pbs.twimg.com/profile_images/1655541754274119680/jPwIFpXf_400x400.png" style="max-width: 100%;" height="40px">
+				<a href="https://testnet.itrocket.net/warden/staking/wardenvaloper1ssxzfzx3rkqzhu0hvzexk6crdxacdwx0vgkydx" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1827100976152555520/N-CVNgTL_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
 			<td width="130px" align="center">
