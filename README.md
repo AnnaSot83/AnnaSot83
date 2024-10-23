@@ -85,6 +85,16 @@
 		<tr valign="top">
 			<td width="130px" align="center">
 				<span>
+					<strong>Symphony</strong>
+				</span>
+				<br>
+				<br>
+				<a href="https://testnet.ping.pub/symphony/staking/symphonyvaloper1p6glwfxxdmq8x9skh0vw4t4n6q7857d366enxl" rel="nofollow">
+					<img src="https://pbs.twimg.com/profile_images/1785547267484925952/_Rc1ZrCE_400x400.jpg" style="max-width: 100%;" height="40px">
+				</a>
+			</td>
+			<td width="130px" align="center">
+				<span>
 					<strong>Source Protocol</strong>
 				</span>
 				<br>
@@ -109,7 +119,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://arkeo.exploreme.pro/validator/tarkeovaloper15jz3pe06es4wnzxvw8cv5jlwxmn86uwht50dfy" rel="nofollow">
+				<a href="https://explorer.stavr.tech/Arkeo-testnet/staking/tarkeovaloper15jz3pe06es4wnzxvw8cv5jlwxmn86uwht50dfy" rel="nofollow">
 					<img src="https://pbs.twimg.com/profile_images/1615488082756907009/jbFWivQL_400x400.jpg" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
