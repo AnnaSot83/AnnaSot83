@@ -40,7 +40,7 @@
 				</span>
 				<br>
 				<br>
-				<a href="https://explorer.forta.network/scan-node/0xf3a0b198de23c8a57159a06278975a216a7f99ed?_gl=1*15izn8g*_ga*MTU1NTkwOTA2NS4xNjgwNjA0MTcz*_ga_3ERDDVRGQQ*MTY4MDYxODk3Ni4zLjEuMTY4MDYxOTcyMi4wLjAuMA.." rel="nofollow">
+				<a href="https://app.forta.network/scan-node/0x2792fcc31f15ccaa5e2d5c338b1f70fd0dffd5c6" rel="nofollow">
 					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyTORG6zIQMAzCOfcA5DfyjPc5AfCHyMaAw&usqp=CAU" style="max-width: 100%;" height="40px">
 				</a>
 			</td>
